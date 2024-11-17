@@ -5,6 +5,6 @@ Repository for mechatronics projects (Winter 2020)
 - Various Arduino projects (control basic circuit elements and motors)
 - First version of the [chessbot](https://github.com/eckelsjd/ChessRobot)
 
-![Chessbot](chessbot-mark-one.jpg)
+![Chessbot](chessbot-mark-one.JPG)
 
 **Fig 1.** Mechatronics final project -- the glorious mark one chess robot ♟️
